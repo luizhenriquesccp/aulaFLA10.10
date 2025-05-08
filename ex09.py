@@ -29,4 +29,3 @@ for _ in range(6):
     rick.forward(50)
     rick.pendown()
     rick.right(60)
-
